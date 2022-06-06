@@ -1,0 +1,18 @@
+{
+  "systemParams": "win32-x64-93",
+  "modulesFolders": [
+    "node_modules"
+  ],
+  "flags": [],
+  "linkedModules": [],
+  "topLevelPatterns": [
+    "react-native-shake@^5.1.1",
+    "react-native-torch@^1.2.0"
+  ],
+  "lockfileEntries": {
+    "react-native-shake@^5.1.1": "https://registry.yarnpkg.com/react-native-shake/-/react-native-shake-5.1.1.tgz#733657764b0395b26f26576bba51e2dcbcecfe89",
+    "react-native-torch@^1.2.0": "https://registry.yarnpkg.com/react-native-torch/-/react-native-torch-1.2.0.tgz#e83303cc1be35f009d50728f775be1ff5d786203"
+  },
+  "files": [],
+  "artifacts": {}
+}
